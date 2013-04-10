@@ -1,5 +1,5 @@
 rabbitmq-auth-backend-rails
 ===========================
-A sample Rails application the plugin 'rabbitmq-auth-backend-http' can authenticate against.
-
-The application is using the devise gem for user authentication.
+A sample Rails application the RabbitMQ plugin 
+[rabbitmq-auth-backend-http](https://github.com/simonmacmullen/rabbitmq-auth-backend-http) can authenticate against.
+The application is using the very popular [devise gem](https://github.com/plataformatec/devise) for user authentication.
