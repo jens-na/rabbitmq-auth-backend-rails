@@ -6,5 +6,4 @@ The application is using [devise](https://github.com/plataformatec/devise) for u
 
 Prerequisites
 ===========================
-- A running RabbitMQ instance with the plugin [rabbitmq-auth-backend-http](https://github.com/simonmacmullen/rabbitmq-auth-backend-http)
-  enabled
+- A running RabbitMQ instance with the plugin [rabbitmq-auth-backend-http](https://github.com/simonmacmullen/rabbitmq-auth-backend-http) enabled.
